@@ -13,4 +13,5 @@ Oficina de Git para Iniciantes
 1. Pull Requests
 
 Lista de Alunos:
+- Sara Pacheco 
 - Fabio Luis 
