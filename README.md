@@ -13,4 +13,4 @@ Oficina de Git para Iniciantes
 1. Pull Requests
 
 Lista de Alunos:
-- 
+- Marcelo da Silva Mello 
