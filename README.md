@@ -10,7 +10,7 @@ Oficina de Git para Iniciantes
 1. 3-Way Merge
 1. Conflitos
 1. Reset
-1. Pull Requestls
+1. Pull Requests
 
 Lista de Alunos:
 - 
