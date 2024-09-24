@@ -14,3 +14,8 @@ Oficina de Git para Iniciantes
 
 Lista de Alunos:
 - Rafael Severo
+- Bruna
+- Marcelo da Silva Mello 
+- Pietro Branco Rossi 
+- Sara Pacheco 
+- Fabio Luis 
