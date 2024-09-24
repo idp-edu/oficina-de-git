@@ -13,6 +13,7 @@ Oficina de Git para Iniciantes
 1. Pull Requests
 
 Lista de Alunos:
+- Kelwin dos Santos Menezes 
 - Rafael Severo
 - Bruna
 - Marcelo da Silva Mello 
