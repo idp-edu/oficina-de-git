@@ -13,4 +13,6 @@ Oficina de Git para Iniciantes
 1. Pull Requests
 
 Lista de Alunos:
--Pietro Branco Rossi 
+- Pietro Branco Rossi 
+- Sara Pacheco 
+- Fabio Luis 
